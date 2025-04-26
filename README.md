@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm **yayea**.
+
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/yayea-g2-contributor.json)](https://github.com/antvis/g2)
+
 <!--
 **yayea/yayea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
